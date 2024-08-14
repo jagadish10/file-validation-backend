@@ -17,6 +17,9 @@
     "nodemon": "^3.1.4",
     "officeparser": "^4.1.1",
     "pdf-parse": "^1.1.1",
-    "pizzip": "^3.1.7"
+    "pdfjs-dist": "^4.5.136",
+    "pizzip": "^3.1.7",
+    "sharp": "^0.33.4",
+    "xml2js": "^0.6.2"
   }
 }
